@@ -1,5 +1,4 @@
-
-
+[![Build Status](https://dev.azure.com/robrakef/ContosoAirDemo/_apis/build/status/kfprugger.ContosoAir?branchName=master)](https://dev.azure.com/robrakef/ContosoAirDemo/_build/latest?definitionId=6&branchName=master)
 
 # Microsoft.Github CI Demo
 
